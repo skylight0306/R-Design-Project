@@ -1,4 +1,4 @@
-# R-Design-Project  10627149
+# R-Design-Project 
 透過R COVID-19的開放資料集結合ggplot2套件繪製出全球疫情狀況  
 
 專題目標:  
